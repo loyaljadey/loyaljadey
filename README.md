@@ -1,6 +1,7 @@
 I am second year undergraduate at UC Berkeley majoring in Mechanical Engineering with a concentration in Aerospace Engineering and a minor in EECS. 
-Outside of academics, I am a part of CalSol, the Berkeley solar vehicle team and Underwater Robotics at Berkeley, a robotics team at Berkeley competing in RoboSub. 
-In my spare time, I enjoy tinkering, fabricating cool parts with my PrintrBot Simple Model, or playing ultimate frisbee, badminton, or biking. 
+Outside of academics, I am the structural lead of CalSol, the UC Berkeley Solar Vehicle Team, a member of Underwater Robotics at Berkeley (a robotics team at Berkeley competing in RoboSub), and a member of the Bike Builders of Berkeley Club. 
+
+In my spare time, I enjoy tinkering, fabricating cool parts with my PrintrBot Simple Model to make useful inventions to augument daily life, or playing ultimate frisbee, badminton, or biking. 
 
 Currently working on integrating a VESC with a motor to make my bike electric. 
 
