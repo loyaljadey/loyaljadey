@@ -10,7 +10,7 @@ Current projects:
 -integrating a VESC with a motor to make my bike electric
 -making a utensil divider
 -making a spinning utensil holder to dry utensils like a washer
--making a autonomous robot to follow a mechanic around and hand tools
+-making a autonomous robot to follow a mechanic around and hand them tools
 
 Please contact me at michael.jia@berkeley.edu or michael.jia26@gmail.com with any questions about my projects or any research/internship opportunities. 
 
