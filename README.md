@@ -2,8 +2,6 @@ I am second year undergraduate at UC Berkeley majoring in Mechanical Engineering
 
 Outside of academics, I am the structural lead of CalSol, the UC Berkeley Solar Vehicle Team. We design, manufacture, and race large scale solar cars cross country.
 
-I am also a member of Underwater Robotics at Berkeley (a robotics team at Berkeley competing in RoboSub). 
-
 In my spare time, I enjoy tinkering, fabricating cool parts with my Longer Lk5 Pro to make useful inventions to augument daily life, or playing ultimate frisbee, badminton, or biking. 
 
 Current projects:
