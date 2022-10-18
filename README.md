@@ -2,7 +2,7 @@ I am second year undergraduate at UC Berkeley majoring in Mechanical Engineering
 
 Outside of academics, I am the structural lead of CalSol, the UC Berkeley Solar Vehicle Team. We design, manufacture, and race large scale solar cars cross country.
 
-In my spare time, I enjoy tinkering, fabricating cool parts with my Longer Lk5 Pro to make useful inventions to augument daily life, or playing ultimate frisbee, badminton, or biking. 
+In my spare time, I enjoy tinkering, fabricating cool parts with my Anycubic Vyper and Bambu Lab X1 Carbonto make useful inventions to augument daily life, or playing ultimate frisbee, badminton, or biking. 
 
 Current projects:
 -integrating a VESC with a motor to make my bike electric
